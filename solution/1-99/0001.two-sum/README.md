@@ -42,5 +42,7 @@ func twoSum(nums []int, target int) []int {
 #### **Python**
 
 #### **PHP**
+```php
+```
 
 <!-- tabs:end -->
